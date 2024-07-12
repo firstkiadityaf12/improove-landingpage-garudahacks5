@@ -1,6 +1,10 @@
 # IMPROOVE 
 
-[![DEMO APPS IMPROOVE](http://img.youtube.com/vi/NkSRFEQb94A/0.jpg)](http://www.youtube.com/watch?v=NkSRFEQb94A)
+<p align="center">
+  <a href="http://www.youtube.com/watch?v=NkSRFEQb94A">
+    <img src="http://img.youtube.com/vi/NkSRFEQb94A/0.jpg" alt="DEMO APPS IMPROOVE">
+  </a>
+</p>
 
 This idea was made from our anxiety about the unemployment rate in Indonesia which reached 5.45%, making Indonesia the country with the second highest average unemployment in ASEAN. Challenges in the labor market can be seen when BPS reports that in 2023 there are 1,819,830 million people who are still looking for work. However, only a few of them manage to get a job that meets their expectations. This is an important indicator in the context of achieving sustainable development target (SDGs) number 8, which is related to decent work and economic growth.
 
