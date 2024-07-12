@@ -20,8 +20,8 @@ module.exports = {
     },
     fontFamily: {
       'jakarta': ['"Plus Jakarta Sans"', 'sans-serif'],
-      'space-grotesk':['"Space Grotesk"', 'sans-serif'],
-      gilroy: ['Gilroy', 'sans-serif'],
+      // 'space-grotesk':['"Space Grotesk"', 'sans-serif'],
+      // gilroy: ['Gilroy', 'sans-serif'],
     },
   },
   plugins: [
