@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap");
+@font-face {
+  font-family: 'Gilroy';
+  font-weight: 500;
+  src: url('/public/fonts/Gilroy-Regular.ttf') format('truetype'),
+       url('/public/fonts/Gilroy-Bold.ttf') format('truetype'),
+       url('/public/fonts/Gilroy-Medium.ttf') format('truetype'),
+       url('/public/fonts/Gilroy-SemiBold.ttf') format('truetype');
+}
+body {
+  font-family: 'Gilroy', sans-serif;
+}
+html {
+  scroll-behavior: smooth;
+} 
+
+.hover-underline::after {
+  content: '';
+  display: block;
+  width: 0;
+  height: 2px;
+  background:#FEBB0E;
+  transition: width 0.3s;
+}
+
+.hover-underline:hover::after {
+  width: 100%;
+}
+
